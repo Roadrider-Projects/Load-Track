@@ -1,6 +1,8 @@
 # Load-Track
 Upload GPX tracks quick an easy to your TomTom Rider(s)
 
+Also includes the option to generate and upload Track Point POI's like "GPX Track 2 OV2"
+
 Mote information at;
 https://roadrider.jouwweb.nl/load-track
 
